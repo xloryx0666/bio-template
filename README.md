@@ -1,3 +1,1 @@
-Hey du kannst alles selbst anpassen 
-
-Viel Spaß
+Diese Seite habe ich programmiert, inspiriert von Fakecrime. Ich habe sie mit HTML, CSS, Javascript erstellt. Dieses Projekt hat mir geholfen, meine Kenntnisse in allen drei Technologien zu verbessern.
